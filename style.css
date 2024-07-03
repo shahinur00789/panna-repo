@@ -1,0 +1,9 @@
+div{
+    border: 10px solid red;
+    box-shadow: 20px 20px 50px pink;
+    padding: 10px;
+    margin: 20px;
+    background-color: aqua;
+    border-top: none;
+    border-left: none;
+}
