@@ -7,3 +7,11 @@ div{
     border-top: none;
     border-left: none;
 }
+.sh{
+    text-align: center;
+}
+.you{
+    width: 50%;
+    background-position: right;
+    
+}
